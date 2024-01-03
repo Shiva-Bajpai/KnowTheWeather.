@@ -36,3 +36,8 @@ Contributions are welcome! If you'd like to contribute to Know-The-Weather, foll
   <p>For any inquiries or assistance, feel free to reach out to us at <a href="mailto:shivabajpai2006@gmail.com">shivabajpai2006@gmail.com</a>.</p>
 
   <p>Thank you for using Know-The-Weather to stay updated on weather conditions!</p>
+
+ <section>
+    <h2>Show Some ❤️</h2>
+    <p>If you've had a great experience with us or like what we offer, consider starring⭐ our repository and sharing it with your network!</p>
+  </section>
