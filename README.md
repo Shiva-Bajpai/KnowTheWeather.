@@ -17,7 +17,7 @@ Know-The-Weather is a comprehensive weather application that provides detailed i
 
 To use Know-The-Weather, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Know-The-Weather.git`
+1. Clone the repository: `git clone https://github.com/shiva-bajpai/Know-The-Weather.git`
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
 
